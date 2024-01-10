@@ -1,0 +1,9 @@
+@media(min-width: 768px){
+    .advice-card{
+        padding-inline: 50px;
+        width: 386px;
+    }
+    .advice-card p{
+        font-size: 21px;
+    }
+}
